@@ -42,7 +42,7 @@ To invest more money, go to the customer card activity and click the "Invest" bu
 
 ## COPYRIGHT
 
-2023 by Group2. All rights reserved.
+2023 by Nima.H. All rights reserved.
 
 ## CONTRIBUTING
 
