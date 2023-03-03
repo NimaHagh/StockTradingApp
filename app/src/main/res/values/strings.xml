@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Wolf of Wall Street 2.0 </string>
+    <string name="textview_balance">Balance: %.2f $</string>
+    <string name="button_goto_bank_portal">Add Cash</string>
+    <string name="button_goto_stock_trade">Stock Trade</string>
+    <string name="str_anonymous">Anonymous</string>
+    <string name="str_price">Price</string>
+    <string name="str_stock">Stock</string>
+    <string name="button_buy">Buy</string>
+    <string name="button_sell">Sell</string>
+    <string name="str_add_money_hint">Add Money To Your Acoount</string>
+    <string name="str_bank_name">Bank Name</string>
+    <string name="hint_enter_bank_name">Enter Bank Name</string>
+    <string name="hint_invest_amount">Amount</string>
+    <string name="str_amount">Amount</string>
+    <string name="str_invest">Add!</string>
+    <string name="str_login">Login</string>
+    <string name="str_username">Username</string>
+    <string name="str_password">Password</string>
+    <string name="str_forgot_password">Forgot Password</string>
+    <string name="str_Bank_Name" />
+</resources>
