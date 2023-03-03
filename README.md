@@ -40,10 +40,6 @@ To sell a stock, navigate to the customer card activity and select a stock from 
 To invest more money, go to the customer card activity and click the "Invest" button. Enter the amount you want to invest and your balance will be updated.
 
 
-## COPYRIGHT
-
-2023 by Nima.H. All rights reserved.
-
 ## CONTRIBUTING
 
 This project is not currently accepting contributions.
